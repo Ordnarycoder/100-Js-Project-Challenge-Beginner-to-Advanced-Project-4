@@ -1,0 +1,1 @@
+Fourth js project. I made a word counter that count words in an sentence with python so this time I made letter counter.
